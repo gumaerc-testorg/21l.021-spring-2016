@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 241cbd7e-c508-a714-0706-2bb58eb29b96
 resourcetype: Document
 title: 21L_021s16_Draft_of_Essay_2-Shakespeare_or_Cervantes
 uid: b6f9544f-a53c-fc23-017e-d2b5a19a0c3d

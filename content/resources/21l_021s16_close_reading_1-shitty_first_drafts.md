@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 241cbd7e-c508-a714-0706-2bb58eb29b96
 resourcetype: Document
 title: 21L_021s16_Close_Readng_1-Shitty_First_Drafts
 uid: fc9dc606-3209-9d60-7675-71ea481fde47

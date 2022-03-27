@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 241cbd7e-c508-a714-0706-2bb58eb29b96
 resourcetype: Document
 title: 21L_021s16_Close_Reading_5-The_Female_Don_Quixote
 uid: 163bc006-014b-55cd-2ac5-a1c2cd8351bf

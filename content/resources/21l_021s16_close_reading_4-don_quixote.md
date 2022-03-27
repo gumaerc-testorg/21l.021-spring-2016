@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 241cbd7e-c508-a714-0706-2bb58eb29b96
 resourcetype: Document
 title: 21L_021s16_Close_Reading_4-Don_Quixote
 uid: b16aa1c4-9498-30da-75d3-69f3a95f38e0

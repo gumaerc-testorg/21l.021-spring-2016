@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 241cbd7e-c508-a714-0706-2bb58eb29b96
 resourcetype: Document
 title: 21L_021s16_Close_Reading_2-Lysistrata_Chi-Raq
 uid: 72d70caf-61c5-fa3d-3b37-1e3211d54c74
