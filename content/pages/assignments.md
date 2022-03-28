@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 241cbd7e-c508-a714-0706-2bb58eb29b96
 ---
@@ -24,7 +25,7 @@ DUE DATES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Close Reading 1 (PDF)]({{< baseurl >}}/resources/21l_021s16_close_reading_1-shitty_first_drafts)
+{{< resource_link fc9dc606-3209-9d60-7675-71ea481fde47 "Close Reading 1 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Two days after Session 2
@@ -33,7 +34,7 @@ Two days after Session 2
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Close Reading 2 (PDF)]({{< baseurl >}}/resources/21l_021s16_close_reading_2-lysistrata_chi-raq)
+{{< resource_link 72d70caf-61c5-fa3d-3b37-1e3211d54c74 "Close Reading 2 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 4
@@ -42,7 +43,7 @@ Session 4
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Draft of Essay 1 (PDF)]({{< baseurl >}}/resources/21l_021s16_draft_of_essay_1-comparative_analysis)
+{{< resource_link ec4c2ad4-92a1-6547-6f0a-4b81703744df "Draft of Essay 1 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 6
@@ -53,7 +54,7 @@ Session 6
 {{< tdopen >}}
 
 
-[Close Reading 3 (PDF)]({{< baseurl >}}/resources/21l_021s16_close_reading_3-rewrite_intro_to_essay_1)
+{{< resource_link b966b79a-f88a-4a0a-8e17-7aea168cdf74 "Close Reading 3 (PDF)" >}}
 
 Revision of first paragraph in draft of Essay 1
 
@@ -75,7 +76,7 @@ Session 10
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Close Reading 4 (PDF)]({{< baseurl >}}/resources/21l_021s16_close_reading_4-don_quixote)
+{{< resource_link b16aa1c4-9498-30da-75d3-69f3a95f38e0 "Close Reading 4 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 12
@@ -84,7 +85,7 @@ Session 12
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Close Reading 5 (PDF)]({{< baseurl >}}/resources/21l_021s16_close_reading_5-the_female_don_quixote)
+{{< resource_link 163bc006-014b-55cd-2ac5-a1c2cd8351bf "Close Reading 5 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 13
@@ -93,7 +94,7 @@ Session 13
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Draft of Essay 2]({{< baseurl >}}/resources/21l_021s16_draft_of_essay_2-shakespeare_or_cervantes)
+{{< resource_link b6f9544f-a53c-fc23-017e-d2b5a19a0c3d "Draft of Essay 2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 14
@@ -129,7 +130,7 @@ Session 19
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Close Reading 8 (PDF)]({{< baseurl >}}/resources/21l_021s16_close_reading_8-anatomy_of_the_joke)
+{{< resource_link 2b557701-30ad-78dc-f293-b7ee154fc897 "Close Reading 8 (PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Session 21
