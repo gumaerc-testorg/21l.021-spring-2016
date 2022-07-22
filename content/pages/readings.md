@@ -1,569 +1,239 @@
 ---
 content_type: page
+description: This section contains a list of readings for the course.
+draft: false
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 339e6b52-d5ed-6041-5ac6-d5a2cc7fd9d5
 ---
+## Required Texts
 
-Required Texts
---------------
+\[A\] = Aristophanes. *Lysistrata and Other Plays.* Addison Wesley, 2008. ISBN: 9780140448146.
 
-\[A\] = Aristophanes. _Lysistrata and Other Plays._ Addison Wesley, 2008. ISBN: 9780140448146.
+\[WS\] = Shakespeare, William. *The Comedy of Errors.* 1st edition. Edited by Charles Whitworth. Oxford University Press, 2008. ISBN: 9780199536146.
 
-\[WS\] = Shakespeare, William. _The Comedy of Errors._ 1st edition. Edited by Charles Whitworth. Oxford University Press, 2008. ISBN: 9780199536146.
+\[MDC\] = De Cervantes, Miguel. *Don Quixote.* Reprint edition. Translated by Edith Grossman. Harper Perennial, 2005. ISBN: 9780060934347.
 
-\[MDC\] = De Cervantes, Miguel. _Don Quixote._ Reprint edition. Translated by Edith Grossman. Harper Perennial, 2005. ISBN: 9780060934347.
+\[CL\] = Lennox, Charlotte. *The Female Quixote: or The Adventures of Arabella.* Edited by Margaret Dalziel. Oxford University Press, 2008. ISBN: 9780199540242.
 
-\[CL\] = Lennox, Charlotte. _The Female Quixote: or The Adventures of Arabella._ Edited by Margaret Dalziel. Oxford University Press, 2008. ISBN: 9780199540242.
+\[MT\] = Twain, Mark. *The Adventures of Huckleberry Finn.* Dover Publications, 1994. ISBN: 9780486280615.
 
-\[MT\] = Twain, Mark. _The Adventures of Huckleberry Finn._ Dover Publications, 1994. ISBN: 9780486280615.
+\[JM\] = McBride, James. *The Good Lord Bird.* Reprint edition. Riverhead Books, 2014. ISBN: 9781594632785.
 
-\[JM\] = McBride, James. _The Good Lord Bird._ Reprint edition. Riverhead Books, 2014. ISBN: 9781594632785.
+\[JL\] = Leguizamo, John. *Ghetto Klown.* Illustrated by Christa Cassano and Shamus Beyale. Harry N. Abrams, 2015. ISBN: 9781419715181.
 
-\[JL\] = Leguizamo, John. _Ghetto Klown._ Illustrated by Christa Cassano and Shamus Beyale. Harry N. Abrams, 2015. ISBN: 9781419715181.
+\[AB\] = Bechdel, Alison. *Fun Home: A Family Tragicomic.* Reprint edition. Mariner Books, 2007. ISBN: 9780618871711.
 
-\[AB\] = Bechdel, Alison. _Fun Home: A Family Tragicomic._ Reprint edition. Mariner Books, 2007. ISBN: 9780618871711.
+Freud, Sigmund. *The Joke and Its Relation to the Unconscious.* Translated by Joyce Crick. Penguin Classics, 2003. ISBN: 9780142437445.
 
-Freud, Sigmund. _The Joke and Its Relation to the Unconscious._ Translated by Joyce Crick. Penguin Classics, 2003. ISBN: 9780142437445.
+Harris, Joseph. *Rewriting: How To Do Things With Texts.* Utah State University Press, 2006. ISBN: 9780874216424.
 
-Harris, Joseph. _Rewriting: How To Do Things With Texts._ Utah State University Press, 2006. ISBN: 9780874216424.
+## Films
 
-Films
------
+[*Chi-Raq*](http://www.imdb.com/title/tt4594834/?ref_=nv_sr_1)*.* 2015.
 
-_[Chi-Raq](http://www.imdb.com/title/tt4594834/?ref_=nv_sr_1)._ 2015.
+[*To Wong Foo, Thanks for Everything! Julie Newmar*](http://www.imdb.com/title/tt0114682/?ref_=nv_sr_1)*.* 1995.
 
-_[To Wong Foo, Thanks for Everything! Julie Newmar](http://www.imdb.com/title/tt0114682/?ref_=nv_sr_1)._ 1995.
+[*Ghetto Klown*](http://www.imdb.com/title/tt3598178/)*.* 2014.
 
-_[Ghetto Klown](http://www.imdb.com/title/tt3598178/)._ 2014_._
+## Performance
 
-Performance
------------
+Performance by NYC Drag Queen Miss Shuga Cain, entitled *She’s the Man: A Drag Queen Performance* (MIT's [De Florez Fund for Humor](https://shass.mit.edu/inside/resources/internal/deflorez))
 
-Performance by NYC Drag Queen Miss Shuga Cain, entitled _She’s the Man: A Drag Queen Performance_ (MIT's [De Florez Fund for Humor](https://shass.mit.edu/inside/resources/internal/deflorez))
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+
 READINGS
-{{< thclose >}}
 
-{{< trclose >}}
+**Week 1: Introduction - What's So Funny?** 
 
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Week 1: Introduction - What's So Funny?  
-**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 1-2
-{{< tdclose >}}
-{{< tdopen >}}
-General introduction; basic vocabulary; course structure
-{{< tdclose >}}
-{{< tdopen >}}
 
+General introduction; basic vocabulary; course structure
 
 No assigned readings.
 
 Watch: [Chi-Raq](http://www.imdb.com/title/tt4594834/?ref_=nv_sr_1).
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
 **Week 2: Old Comedy**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
-Aristophanes, _Lysistrata_
-{{< tdclose >}}
-{{< tdopen >}}
 
+Aristophanes, *Lysistrata*
 
 \[A\] pp. 131–159.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-_Lysistrata_ cont.
-{{< tdclose >}}
-{{< tdopen >}}
 
+*Lysistrata* cont.
 
 \[A\] pp. 160–193.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
 **Week 3: Plautus & Shakespeare**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
-Plautus, _Menaechmi_
-{{< tdclose >}}
-{{< tdopen >}}
 
+Plautus, *Menaechmi*
 
-Plautus. "Menaechmi." In _The Comedy of Errors._ 1st edition. Edited by Charles Whitworth. Oxford University Press, 2008, pp. 188–220. ISBN: 9780199536146.
+Plautus. "Menaechmi." In *The Comedy of Errors.* 1st edition. Edited by Charles Whitworth. Oxford University Press, 2008, pp. 188–220. ISBN: 9780199536146.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
-Shakespeare, _The Comedy of Errors_
-{{< tdclose >}}
-{{< tdopen >}}
 
+Shakespeare, *The Comedy of Errors*
 
 \[WS\] pp. 85–130.
 
 To prepare for Close Reading 3, read:
 
-Harris, Joseph. "Introduction" and "Chapter 1: Coming to Terms." In  _Rewriting: How To Do Things With Texts._ Utah State University Press, 2006. ISBN: 9780874216424.
+Harris, Joseph. "Introduction" and "Chapter 1: Coming to Terms." In  *Rewriting: How To Do Things With Texts.* Utah State University Press, 2006. ISBN: 9780874216424.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
 **Week 4: Shakespeare cont.**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
 
-
-_The Comedy of Errors_
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+*The Comedy of Errors*
 
 \[WS\] pp. 131–180. 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
-_Twelfth Night_
-{{< tdclose >}}
-{{< tdopen >}}
-Shakespeare, William. _[The Twelfth Night](http://shakespeare.mit.edu/twelfth_night/full.html)._
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+*Twelfth Night*
+
+Shakespeare, William. [*The Twelfth Night*](http://shakespeare.mit.edu/twelfth_night/full.html)*.*
+
 **Week 5: Spanish Classics**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
-Miguel de Cervantes, _Don Quixote of La Mancha_
-{{< tdclose >}}
-{{< tdopen >}}
 
+Miguel de Cervantes, *Don Quixote of La Mancha*
 
 \[MDC\] pp. 1–102.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
-_Don Quixote_ cont.
-{{< tdclose >}}
-{{< tdopen >}}
 
+*Don Quixote* cont.
 
 \[MDC\] pp. 103–249.
 
+**Week 6: Spanish Classics cont.** 
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Week 6: Spanish Classics cont.  
-**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
-_Don Quixote_ cont.
-{{< tdclose >}}
-{{< tdopen >}}
 
+*Don Quixote* cont.
 
 \[MDC\] pp. 250–352.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
-_Don Quixote_ cont.
-{{< tdclose >}}
-{{< tdopen >}}
 
+*Don Quixote* cont.
 
 \[MDC\] pp. 353–449.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
 **Week 7: Early Women Humor**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
-Charlotte Lennox, _The Female Quixote_
-{{< tdclose >}}
-{{< tdopen >}}
 
+Charlotte Lennox, *The Female Quixote*
 
 \[CL\] pp. 1–100.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
-_The Female Quixote_, cont.
-{{< tdclose >}}
-{{< tdopen >}}
 
+*The Female Quixote*, cont.
 
 \[CL\] pp. 101–200.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
 **Week 8: American Humor**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
-Mark Twain, _Adventures of Huckleberry Finn_
-{{< tdclose >}}
-{{< tdopen >}}
 
+Mark Twain, *Adventures of Huckleberry Finn*
 
 \[MT\] pp. 1–101.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
 
-
-_Adventures of Huckleberry Finn_ cont.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+*Adventures of Huckleberry Finn* cont.
 
 \[MT\] pp. 102–220.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
 **Week 9: American Humor cont.**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
-James McBride, _The Good Lord Bird_
-{{< tdclose >}}
-{{< tdopen >}}
 
+James McBride, *The Good Lord Bird*
 
 \[JM\] pp. 7–156.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
-_The Good Lord Bird_ cont.
-{{< tdclose >}}
-{{< tdopen >}}
 
+*The Good Lord Bird* cont.
 
 \[JM\] pp. 157–298.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
 **Week 10: Women & Comedy**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
-_The Good Lord Bird_ cont.
-{{< tdclose >}}
-{{< tdopen >}}
 
+*The Good Lord Bird* cont.
 
 \[JM\] pp. 299–458.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+
 Tina Fey
-{{< tdclose >}}
-{{< tdopen >}}
 
+Fey, Tina. *Bossypants*. Little Brown, 2011, pp. 3–10. ISBN: 9780316056861.
 
-Fey, Tina. _Bossypants_. Little Brown, 2011, pp. 3–10. ISBN: 9780316056861.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
 **Week 11: Comic Memoir**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+
 Tina Fey & David Sedaris
-{{< tdclose >}}
-{{< tdopen >}}
 
+"[Act One: Papa Was Not a Rolling Stone](https://www.thisamericanlife.org/radio-archives/episode/104/music-lessons?act=1)." 104: Music Lessons. *This American Life*, June 5, 1998.
 
-"[Act One: Papa Was Not a Rolling Stone](https://www.thisamericanlife.org/radio-archives/episode/104/music-lessons?act=1)." 104: Music Lessons. _This American Life_, June 5, 1998.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
 **Week 12: Graphic Novels**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
-John Leguizamo, _Ghetto Klown_
-{{< tdclose >}}
-{{< tdopen >}}
 
+John Leguizamo, *Ghetto Klown*
 
 \[JL\] pp. 1–74.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 23
-{{< tdclose >}}
-{{< tdopen >}}
-_Ghetto Klown_ cont.
-{{< tdclose >}}
-{{< tdopen >}}
 
+*Ghetto Klown* cont.
 
 \[JL\] pp. 75–121.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
 **Week 13: Gendering the Joke**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
-_Ghetto Klown_ cont.
-{{< tdclose >}}
-{{< tdopen >}}
 
+*Ghetto Klown* cont.
 
 \[JL\] pp. 122–181.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 25
-{{< tdclose >}}
-{{< tdopen >}}
-Alison Bechdel, _Fun Home_
-{{< tdclose >}}
-{{< tdopen >}}
+
+Alison Bechdel, *Fun Home*
+
 \[AB\] pp. 1–86.
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
 **Week 14: She's the Man**
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 26
-{{< tdclose >}}
-{{< tdopen >}}
 
-
-_Fun Home_ cont.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+*Fun Home* cont.
 
 \[AB\] pp. 87–150.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
 27
-{{< tdclose >}}
-{{< tdopen >}}
-_Fun Home_ cont.
-{{< tdclose >}}
-{{< tdopen >}}
+
+*Fun Home* cont.
+
 \[AB\] pp. 151–232.
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
