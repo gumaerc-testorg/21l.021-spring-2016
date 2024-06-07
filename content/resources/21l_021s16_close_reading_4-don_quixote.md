@@ -2,6 +2,7 @@
 content_type: resource
 description: Close Reading 4-Don Quixote
 file: /courses/21l-021-comedy-spring-2016/b16aa1c4949830da75d369f3a95f38e0_21L_021s16_Close_Reading_4-Don_Quixote.pdf
+file_size: 169315
 file_type: application/pdf
 learning_resource_types:
 - Assignments
