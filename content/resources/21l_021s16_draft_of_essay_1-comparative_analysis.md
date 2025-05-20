@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Draft of Essay 1-Comparative Analysis
-file: /ol-ocw-studio-app/courses/21l-021-comedy-spring-2016/ec4c2ad492a165476f0a4b81703744df_21L_021s16_Draft_of_Essay_1-Comparative_Analysis.pdf
+file: /courses/21l-021-comedy-spring-2016/ec4c2ad492a165476f0a4b81703744df_21L_021s16_Draft_of_Essay_1-Comparative_Analysis.pdf
 file_size: 152146
 file_type: application/pdf
 learning_resource_types:
