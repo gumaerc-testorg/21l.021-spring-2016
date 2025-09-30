@@ -17,8 +17,8 @@ Prerequisites
 
 None. Students should view the following two videos prior to taking this class:
 
-*   [Drunk History vol. 3 - Featuring Danny McBride](https://www.youtube.com/watch?v=bqzUI1ihfpk). YouTube.
-*   [Beyonce, "Drunk in Love" (Parody), "Dunkin Love."](https://www.youtube.com/watch?v=LHUvCbNcal4) YouTube.
+*   {{% resource_link "78e7bfc9-19ea-49d8-9c6e-05235c494fbc" "Drunk History vol. 3 - Featuring Danny McBride" %}}. YouTube.
+*   {{% resource_link "757432ae-37df-4510-9997-db727750ac81" "Beyonce, \"Drunk in Love\" (Parody), \"Dunkin Love.\"" %}} YouTube.
 
 Course Description
 ------------------
@@ -38,7 +38,7 @@ Requirements
 
 **Reading** - Reading is very important to your success in the class. Please be prepared to contribute to class discussion. (Think of the close reading assignments as part of preparing you to say something during class discussion.)
 
-**Annotation Studio** - Using [Annotation Studio](http://www.annotationstudio.org/), MIT students were asked to provide online posts as part of their participation grade. The collaborative web-based annotation tool is free. Posts included thoughtful reflections that examined and/or explored connections between ideas in the course, individual ideas, and ideas fellow classmates posed. MIT students were asked to visit the online text of that week at least a few times in order to post two comments: one response to another student, and one response that is a close reading analyses.
+**Annotation Studio** - Using {{% resource_link "43a788d1-acb1-4eff-8bf8-68f9bb239a8f" "Annotation Studio" %}}, MIT students were asked to provide online posts as part of their participation grade. The collaborative web-based annotation tool is free. Posts included thoughtful reflections that examined and/or explored connections between ideas in the course, individual ideas, and ideas fellow classmates posed. MIT students were asked to visit the online text of that week at least a few times in order to post two comments: one response to another student, and one response that is a close reading analyses.
 
 **Participation** - Based on the idea of a semester-long conversation, each session will lead us to many other topics within the genre. Of particular interest is our approach to the _comedic_ by actually _writing_ about its representation on and off the page. The class can only succeed if each of us commits to reading and engaging in conversations online and in the classroom—that is, to listening and valuing the unique perspective that each of us brings—and to this end, _attendance is mandatory_.
 
